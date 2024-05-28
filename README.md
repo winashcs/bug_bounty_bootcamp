@@ -1,2 +1,2 @@
-# bug_bounty_bootcamp
+# cybersecurity_bootcamp
 
