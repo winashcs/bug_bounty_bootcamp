@@ -37,5 +37,5 @@ Wired media : uses wire for data transmission. <br>
 Wireless media : uses electromagnetic waves for data transmission. <br>
 Types of Wired media : Twisted Pair has two types Unshielded (less secure) and Shielded (more secure as there is a foil to protect data). Lan cable or ethernet cable which are used to connect devices within Local Area Network are made from Twisted Pair and have RJ 45 connector (made of 8 pins which help for data transmission). Fibre Optic Cable uses light source to send and recieve data signals it is fast and most secure among all as it is made of glass core plate and breaking it will not allow data transfer hence difficult to hack. Coaxial Cable has higher bandwidth compared to Twisted Pair and cost-effective and easy to install compared to Fiber Optic Cable. <br>
 Cross cable : Used to connect similar devices. Straight cable/Patch cable : Used to connect dissimilar devices. <br>
-ISP (Internet Service Provider) Network : is the one which delivers internet connectivity. Wired is fast and secure compared to wireless.
-Rack Technology : is technology used to organize networking devices like servers so it becomes easier for maintenance in data centres and server rooms.
+ISP (Internet Service Provider) Network : is the one which delivers internet connectivity. Wired is fast and secure compared to wireless. <br>
+Rack Technology : is technology used to organize networking devices like servers so it becomes easier for maintenance in data centres and server rooms. <br>
