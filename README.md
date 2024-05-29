@@ -56,3 +56,7 @@ ICMP : Internet Control Message Protocol is used for control purposes like error
 RDP : Remote Desktop Protocol used to connect remotely to another computer developed by Microsoft. <br>
 HTTP : Hypter Text Transfer Protocol is used for web access. <br>
 HTTPS : Hypter Text Transfer Protocol Secure is used for web accces securely. <br>
+Router : networking device that forwards data packets between computer networks and it determines the best path for the information to travel depending on packet priority and available bandwidth. <br>
+Routing Tables : shows where the data packet should go. <br>
+Routing Matrices : sets the criteria which help to choose the best path for data packets to go like bandwidth,cost,etc. <br>
+Static Routing vs Dynamic Routing : In Static Routing it is fixed manually and there is no adaptability which is suitable for small networks whereas in Dynamic Routing it automatically updates based on network changes,i.e, there is network adaptability and can be used for larger networks. </br>
