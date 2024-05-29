@@ -8,4 +8,4 @@ Need of networking : we can share resources over LAN or WAN, we can connect lapt
 Point-to-Point (P2P) model : in this model only two devices are connected to each other.<br>
 Client-Server model : clients request services or resources from servers which fulfill their requests.<br>
 Computer network : is a system of interconnected computers that use a set of common communication protocols for the purpose of sharing resources.<br>
-Types of computer network : Personal Area Netwok (PAN) : in bluetooth. Controlled Area Network (CAN) : in cars for airbag deployment. Local Area Network (LAN) : in homes,small office. Metropolitan Area Network (MAN) : connection of two or more LANs in big campuses. Wide Area Network (WAN) : geographical communication in internet.<br>
+Types of computer network : Personal Area Netwok (PAN) : in bluetooth. Local Area Network (LAN) : in homes,small office. Campus Area Network (CAN) : connecting two or more LANs in university campuses (small geographical area). Metropolitan Area Network (MAN) : connection of two or more LANs in big campuses (large geographical area). Wide Area Network (WAN) : geographical communication in internet.<br>
