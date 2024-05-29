@@ -17,4 +17,12 @@ Mesh Topology : each device is connected to every other device.<br>
 Hybrid Topology : collection of two or more topology.<br>
 Ring Topology : connects device in circular manner where each device is connected to two other devices on either side in a closed loop. Data transfer happens in clock-wise format.<br>
 Dual Ring Topology : connects devices with help of two rings where data transfer happens in clock-wise as well as anti-clock-wise.<br>
-OSI model : 
+Switch : is a device that connects multiple devices in a network. It transmits data to only required devices. <br>
+Hub : is a device that connects multiple devices in a network. It transmits data to all the connected devices. <br>
+Server : is heart of the network that stores and shares information with other computers, they send the information and handle the requests.<br>
+Data : information that is transmitted over a network. <br>
+Packet : data is broken down into smaller units with additional information like destination and source address etc so that data reaches its destination accurately. <br>
+OSI (Open System Interconnection) model : consists of 7 layers. <br>
+Lower Layer : Physical, Data-link, Network, Transport. They are used to send the packet. <br>
+Upper Layer : Session, Presentation, Application. They are used to create the packet. <br>
+
