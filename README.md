@@ -9,3 +9,5 @@ Point-to-Point (P2P) model : in this model only two devices are connected to eac
 Client-Server model : clients request services or resources from servers which fulfill their requests.<br>
 Computer network : is a system of interconnected computers that use a set of common communication protocols for the purpose of sharing resources.<br>
 Types of computer network : Personal Area Netwok (PAN) : in bluetooth. Local Area Network (LAN) : in homes,small office. Campus Area Network (CAN) : connecting two or more LANs in university campuses (small geographical area). Metropolitan Area Network (MAN) : connection of two or more LANs in big campuses (large geographical area). Wide Area Network (WAN) : geographical communication in internet.<br>
+Topology : arrangement of networking devices over a network.<br>
+Bus Topology : all devices are connected to a single back bone cable. One device failure creates problem in entire network.<br>
