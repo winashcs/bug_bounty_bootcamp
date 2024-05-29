@@ -44,4 +44,15 @@ NIC : Network Interface Card also called as network adapter card which helps to 
 MAC Address : Media Access Control is 48 bit or 12 digit (hexadecimal). It is permanent address given to each device, cannot change. It is inside the NIC. It is used to communicate within the local network. <br>
 IP Address : Internet Protocol is unique address that identifies a device on the internet. Static IP Addressing : manual IP assigned by Network Admin to Host, it is fixed. Dynamic IP Addressing : it is temporary, assigned from the pool of available addresses by Dynamic Host Configuration Protocol (DHCP). <br>
 IP Version : IPv4 (Internet Protocol Version 4) is 32 bit, represent it using decimal number and is used for small network. IPv6 (Internet Protocol Version 6) is 128 bit, represent it using hexadecimal number and is used for large network. <br>
-DNS : Domain Name System DNS is essential because it allows us to use easy-to-remember domain names (like "google.com") instead of having to remember the numerical IP addresses (such as "172.217.3.78" for Google) for every website we want to visit. It converts domain name to ip address. It can also convert back.
+DNS : Domain Name System DNS is essential because it allows us to use easy-to-remember domain names (like "google.com") instead of having to remember the numerical IP addresses (such as "172.217.3.78" for Google) for every website we want to visit. It converts domain name to ip address. It can also convert back. <br>
+SMTP : Simple Mail Transfer Protocol is used for sending the mail. <br>
+POP : Post Office Protocol is used to receive the mail. <br>
+IMAP : Internet Message Access Protocol is used for to receive the mail, this is most suitable in case of access from multiple devices. <br>
+TCP : Transmission Control Protocol is used to send/receive packets to website or another pc. It is secure and reliable. <br>
+UDP : User Datagram Protocol is used to send/receive packets when heavy data is used like video streaming. It is less secure and fast. <br>
+Telnet : it is a protocol used for remote access. It is insecure as there is no encryption. <br>
+SSH : Secure SHell protocol is used to create secure connection between two devices as it encrypts the data. <br>
+ICMP : Internet Control Message Protocol is used for control purposes like error reporting by network devices, example : requested service is not available. <br>
+RDP : Remote Desktop Protocol used to connect remotely to another computer developed by Microsoft. <br>
+HTTP : Hypter Text Transfer Protocol is used for web access. <br>
+HTTPS : Hypter Text Transfer Protocol Secure is used for web accces securely. <br>
