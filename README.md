@@ -31,5 +31,9 @@ Upper Layer : Session, Presentation, Application. They are used to create the pa
 (4)Transport Layer : Divides data into segments. Provides reliable or connectionless delivery using protocols like Trasmission Control Protocol or User Datagram Protocol between sender and receiver. <br>
 (3)Network Layer : It decides the best path for data packets to travel.<br>
 (2)Data Link Layer : It makes the data error free, maintains the same speed of data transfer between sender and receiver. Data is the form of frames. <br>
-(1)Physical Layer : It makes the data in the form of 0 or 1 (bits). It decided to send the data to receiver in wire or wireless mode.<br>
+(1)Physical Layer : It makes the data in the form of 0 or 1 (bits). It decided to send the data to receiver in wire or wireless mode. <br>
+Bandwidth : amount of data that can be transmitted within a time period. <br>
+Wired media : uses wire for data transmission. <br>
+Wireless media : uses electromagnetic waves for data transmission. <br>
+Types of Wired media : Twisted Pair has two types Unshielded (less secure) and Shielded (more secure as there is a foil to protect data). Lan cable or ethernet cable which are used to connect devices within Local Area Network are made from Twisted Pair. Fibre Optic Cable uses light source to send and recieve data signals it is fast and most secure among all as it is made of glass core plate and breaking it will not allow data transfer hence difficult to hack. Coaxial Cable : higher bandwidth compared to Twisted Pair and cost-effective and easy to install compared to Fiber Optic Cable. <br>
 
