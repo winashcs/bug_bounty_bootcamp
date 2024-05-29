@@ -20,6 +20,7 @@ Dual Ring Topology : connects devices with help of two rings where data transfer
 Switch : is a device that connects multiple devices in a network. It transmits data to only required devices. <br>
 Hub : is a device that connects multiple devices in a network. It transmits data to all the connected devices. <br>
 Server : is heart of the network that stores and shares information with other computers, they send the information and handle the requests.<br>
+Ping : is used to test the reachability of a device. It sends a packet of data to the destination IP address and waits for the response. <br>
 Data : information that is transmitted over a network. <br>
 Packet/Frame : data is broken down into smaller units with additional information like destination and source address etc so that data reaches its destination accurately. It is called as packet in Network Layer but frame in Data Link Layer. <br>
 OSI (Open System Interconnection) model : consists of 7 layers which works towards transfer of data from one network to another network across the globe between sender and receiver. It is developed by ISO (International Organization for Standerization). <br>
@@ -39,3 +40,8 @@ Types of Wired media : Twisted Pair has two types Unshielded (less secure) and S
 Cross cable : Used to connect similar devices. Straight cable/Patch cable : Used to connect dissimilar devices. <br>
 ISP (Internet Service Provider) Network : is the one which delivers internet connectivity. Wired is fast and secure compared to wireless. <br>
 Rack Technology : is technology used to organize networking devices like servers so it becomes easier for maintenance in data centres and server rooms. <br>
+NIC : Network Interface Card also called as network adapter card which helps to connect to the network. It is used to perform all network related functions. <br>
+MAC Address : Media Access Control is 48 bit or 12 digit (hexadecimal). It is permanent address given to each device, cannot change. It is inside the NIC. It is used to communicate within the local network. <br>
+IP Address : Internet Protocol is unique address that identifies a device on the internet. Static IP Addressing : manual IP assigned by Network Admin to Host, it is fixed. Dynamic IP Addressing : it is temporary, assigned from the pool of available addresses by Dynamic Host Configuration Protocol (DHCP). <br>
+IP Version : IPv4 (Internet Protocol Version 4) is 32 bit, represent it using decimal number and is used for small network. IPv6 (Internet Protocol Version 6) is 128 bit, represent it using hexadecimal number and is used for large network. <br>
+DNS : Domain Name System DNS is essential because it allows us to use easy-to-remember domain names (like "google.com") instead of having to remember the numerical IP addresses (such as "172.217.3.78" for Google) for every website we want to visit. It converts domain name to ip address. It can also convert back.
