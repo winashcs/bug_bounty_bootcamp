@@ -1,6 +1,6 @@
 # cybersecurity_bootcamp
 
-Networking basics : <br>
+NETWORKING FUNDAMENTALS : <br>
 Network : is a connection of multiple network devices via any medium.<br>
 Networking : is communication or transmisson of data between devices.<br>
 Internetworking : is connecting more than two networks. Example : youtube videos connect many people as you can keep sharing videos. <br>
@@ -17,4 +17,4 @@ Mesh Topology : each device is connected to every other device.<br>
 Hybrid Topology : collection of two or more topology.<br>
 Ring Topology : connects device in circular manner where each device is connected to two other devices on either side in a closed loop. Data transfer happens in clock-wise format.<br>
 Dual Ring Topology : connects devices with help of two rings where data transfer happens in clock-wise as well as anti-clock-wise.<br>
-OSI MODEL : 
+OSI model : 
