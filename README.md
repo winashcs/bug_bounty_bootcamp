@@ -21,8 +21,15 @@ Switch : is a device that connects multiple devices in a network. It transmits d
 Hub : is a device that connects multiple devices in a network. It transmits data to all the connected devices. <br>
 Server : is heart of the network that stores and shares information with other computers, they send the information and handle the requests.<br>
 Data : information that is transmitted over a network. <br>
-Packet : data is broken down into smaller units with additional information like destination and source address etc so that data reaches its destination accurately. <br>
-OSI (Open System Interconnection) model : consists of 7 layers. <br>
+Packet/Frame : data is broken down into smaller units with additional information like destination and source address etc so that data reaches its destination accurately. It is called as packet in Network Layer but frame in Data Link Layer. <br>
+OSI (Open System Interconnection) model : consists of 7 layers which works towards transfer of data from one network to another network across the globe between sender and receiver. It is developed by ISO (International Organization for Standerization). <br>
 Lower Layer : Physical, Data-link, Network, Transport. They are used to send the packet. <br>
 Upper Layer : Session, Presentation, Application. They are used to create the packet. <br>
+(7)Application Layer : It is used to create services for interface. Example : HTTP, FTP. <br>
+(6)Presentation Layer : Designs format of data like encode/decode, encrypt/decrypt, compresses/decompresses. <br>
+(5)Session Layer : It establishes, maintains and terminates a connection between applications. <br>
+(4)Transport Layer : Divides data into segments. Provides reliable or connectionless delivery using protocols like Trasmission Control Protocol or User Datagram Protocol between sender and receiver. <br>
+(3)Network Layer : It decides the best path for data packets to travel.<br>
+(2)Data Link Layer : It makes the data error free, maintains the same speed of data transfer between sender and receiver. Data is the form of frames. <br>
+(1)Physical Layer : It makes the data in the form of 0 or 1 (bits). It decided to send the data to receiver in wire or wireless mode.<br>
 
