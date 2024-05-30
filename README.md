@@ -111,4 +111,4 @@ Proxy : is an intermediary device between user and internet which sends request 
 ACL : Access Control List is a list which tells who has permission to access a resource. <br>
 Enumeration : phase after footprinting to know more deeper about the target. <br>
 
-KALI LINUX :
+KALI LINUX : <br>
