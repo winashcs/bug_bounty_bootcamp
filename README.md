@@ -77,3 +77,6 @@ Socket : helps in communication for different applications in computer network, 
 SSL : Secure Socket Layer helps in securing connections between clients and servers by encrypting TCP/IP. <br>
 TLS : Transport Layer Security is the advance version of SSL. <br>
 VPN : Virtual Private Network creates a private connection between source and destination over less secure areas like internet which helps to bypass restricted websites and also hides the IP addresses. It acts like a secure tunnel. <br>
+Subnet : Subnetwork is breaking an IP network to smaller networks. Helps to maintain complex networks by enhancing security and performance. <br>
+CIDR : Classless Inter - Domain Routing is the one that implements breaking of an IP networks,i.e, CIDR implements subnetting. <br>
+VLAN: Virtual Local Area Network is the one which divided a network into multiple networks which helps to reduce traffic within a Local Area Network virtually as it is not physically present. This happens inside the switch. It helps for better performance and security in Local Area Network. <br>
