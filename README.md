@@ -70,4 +70,9 @@ Wired Equivalent Privacy (WEP) : It is security protocol where authentication op
 Wifi-Protected Access (WPA/WPA-2) : is security protocol which is more secure for wireless network. WPA-2 is more secure than WPA as it supports Advance Encryption System (AES).<br>
 Antenna : is used to send and receive signals. <br>
 Wireless Lan Controller (WLC) : it helps in smooth performance of wireless network by managing access points (access points are the one which helps in connecting a laptop to wifi without wire). <br>
-Virutalization :  <br>
+Virutalization : it is the act of creating a virtual version of something like running Kali linux operating system on a predefine Windows operating system. <br>
+Cloud Computing : helps for secure storage services online like google drive where you can access your file from any device as long as you have the account. <br>
+IPsec : Internet Protocol Security which helps for secure data transfer in public networks due to encryption. This is used to set up VPN. <br>
+Socket : helps in communication for different applications in computer network, just like phone helps in communication between two people, socket helps in communication for computer networks through IP addresses. <br>
+SSL : Secure Socket Layer helps in securing connections between clients and servers by encrypting TCP/IP. <br>
+TLS : Transport Layer Security is the advance version of SSL. <br>
