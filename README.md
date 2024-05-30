@@ -76,3 +76,4 @@ IPsec : Internet Protocol Security which helps for secure data transfer in publi
 Socket : helps in communication for different applications in computer network, just like phone helps in communication between two people, socket helps in communication for computer networks through IP addresses. <br>
 SSL : Secure Socket Layer helps in securing connections between clients and servers by encrypting TCP/IP. <br>
 TLS : Transport Layer Security is the advance version of SSL. <br>
+VPN : Virtual Private Network creates a private connection between source and destination over less secure areas like internet which helps to bypass restricted websites and also hides the IP addresses. It acts like a secure tunnel. <br>
