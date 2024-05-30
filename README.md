@@ -80,3 +80,5 @@ VPN : Virtual Private Network creates a private connection between source and de
 Subnet : Subnetwork is breaking an IP network to smaller networks. Helps to maintain complex networks by enhancing security and performance. <br>
 CIDR : Classless Inter - Domain Routing is the one that implements breaking of an IP networks,i.e, CIDR implements subnetting. <br>
 VLAN: Virtual Local Area Network is the one which divided a network into multiple networks which helps to reduce traffic within a Local Area Network virtually as it is not physically present. This happens inside the switch. It helps for better performance and security in Local Area Network. <br>
+
+CYBERSECURITY TERMINOLOGIES : <br>
