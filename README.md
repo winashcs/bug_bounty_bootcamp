@@ -68,3 +68,6 @@ Wireless Frame : It is the one which makes data exchange possible in the air in 
 Wireless Authentication Method : a protocol where no need to enter any authentication, access points accepts the request without any questions. <br>
 Wired Equivalent Privacy (WEP) : It is security protocol where authentication option is available, it encrypts the wireless frame with help of cipher algorithm. <br>
 Wifi-Protected Access (WPA/WPA-2) : is security protocol which is more secure for wireless network. WPA-2 is more secure than WPA as it supports Advance Encryption System (AES).<br>
+Antenna : is used to send and receive signals. <br>
+Wireless Lan Controller (WLC) : it helps in smooth performance of wireless network by managing access points (access points are the one which helps in connecting a laptop to wifi without wire). <br>
+Virutalization :  <br>
