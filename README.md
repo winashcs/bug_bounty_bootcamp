@@ -46,6 +46,7 @@ IP Address : Internet Protocol is unique address that identifies a device on the
 IP Version : IPv4 (Internet Protocol Version 4) is 32 bit, represent it using decimal number and is used for small network. IPv6 (Internet Protocol Version 6) is 128 bit, represent it using hexadecimal number and is used for large network. <br>
 DNS : Domain Name System DNS is essential because it allows us to use easy-to-remember domain names (like "google.com") instead of having to remember the numerical IP addresses (such as "172.217.3.78" for Google) for every website we want to visit. It converts domain name to ip address. It can also convert back. <br>
 SMTP : Simple Mail Transfer Protocol is used for sending the mail. <br>
+FTP : File Transfer Protocol used for transferring files between server and client. <br>
 POP : Post Office Protocol is used to receive the mail. <br>
 IMAP : Internet Message Access Protocol is used for to receive the mail, this is most suitable in case of access from multiple devices. <br>
 TCP : Transmission Control Protocol is used to send/receive packets to website or another pc. It is secure and reliable. <br>
@@ -82,3 +83,32 @@ CIDR : Classless Inter - Domain Routing is the one that implements breaking of a
 VLAN: Virtual Local Area Network is the one which divided a network into multiple networks which helps to reduce traffic within a Local Area Network virtually as it is not physically present. This happens inside the switch. It helps for better performance and security in Local Area Network. <br>
 
 CYBERSECURITY TERMINOLOGIES : <br>
+Types of Hackers : Black Hat Hackers also known as crackers who crack into system for malicious purposes, Grey Hat Hackers are between Black and Ethical Hackers, Ethical/White Hat Hackers are the one which protect the system against Black Hat Hackers. <br>
+Exploit : Hackers try to take advantage of weakness/vulnerability and gain unauthorized access. <br>
+Payload : malicious components like injecting code or command used to do exploit. <br>
+Zero-Day-Attack : an attack done against the software where the software developers do not have the idea about such type of attacks and the attack takes place on the same day when the vulnerability is discovered. <br>
+Phishing : is a cyber attack where the attackers try to pose as a legitimate company to steal sensistive information from the user. <br>
+Spoofing : is creation of a fake url or email which closely resembles to the original one. <br>
+Botnet : is a group of compromised computer secretly running under common command. <br>
+DOS : Denial Of Service is a cyber attack where the website/system becomes unavailable to the user by mostly flooding the system with traffic. <br>
+DDOS : Distributed Denial Of Service is a cyber attack where multiple systems becomes unavailable to the user by mostly using botnet. <br>
+ARP Poisoning : Address Resolution Protocol, a protocol to tell the device the address of another device with whom it wants to communicate in a network. ARP Poisoning means spoofing this address for malicious purposes. <br>
+MITM : Man In The Middle is a cyber attack caused by intercepting the network line between two parties and altering the data without their knowledge compromising privacy. <br>
+DHCP Flood : is a cyber attack where the attacker floods the DHCP with traffic which makes it difficult for assigning the IP addresses for a network device causing disturbance in network operations. <br>
+Back Door : is done by bypassing security protocls and gaining unauthorized access without the user getting to know about it. <br>
+Trojan : malicious software that disguises itself as a legitimate software, once installed it starts implementing malicious activities without users knowledge. <br>
+Virus : malicious software that can replicate itself and spread throughout the network.  <br>
+Malware : contains all malicious software like Back Door, Trojan, Virus, Rootkit, Ransomware. <br>
+Rootkit : A rootkit is a malware that hides itself from antivirus and grants unauthorized access at the deepest system level. <br>
+Ransomware : malware that blocks access to a system or files until a sum of money is paid to the hacker in exchange. <br>
+Footprinting : means gathering information about the target. <br>
+HoneyPot : is distracting the hackers by setting up a fake network to hack on so that we find out how they hack it, by doing this way we secure our real network and also understand how they can hack our real network. <br>
+Sniffing : is the process of analyzing the data packets over a network. <br>
+NMAP : Network MAPper is a tool for network discovery and to find out any potential threats in the networks. <br>
+DLP : Data Loss Prevention is the process of preventing data breaches like protecting Personally Identifiable Information (PII). <br>
+Firewall : is a network security device used to monitor the incoming and outgoing network traffic and it can be used to block websites. <br>
+Proxy : is an intermediary device between user and internet which sends request to internet on the user's behalf. <br>
+ACL : Access Control List is a list which tells who has permission to access a resource. <br>
+Enumeration : phase after footprinting to know more deeper about the target. <br>
+
+KALI LINUX :
