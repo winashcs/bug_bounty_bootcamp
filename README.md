@@ -64,3 +64,7 @@ Transmission : process where user can send data using network devices or process
 Types of Transmission modes: Simplex Mode : it is one way communication where device can only send data, example is keyboard. Duplex Mode : we can send and receive data. Half Duplex Mode : user cannot send and receive data simultaneously, example is walkie-talkie. Full Duplex Mode : device can send and receive data simultaneously, example is video calls. <br>
 POE : Power Over Ethernet is an inbuilt power suppy along with ethernet cable which eliminates the need of using extra cables for power supply. It ensures smooth transmission of data at it does not overheat, saves power. <br>
 Wireless Network : use to connect and manage wireless end devices. Uses radio frequency to send/receive data, encryption technology to secure data, it is less secure compared to wired, it covers only small area. <br>
+Wireless Frame : It is the one which makes data exchange possible in the air in wireless network. <br>
+Wireless Authentication Method : a protocol where no need to enter any authentication, access points accepts the request without any questions. <br>
+Wired Equivalent Privacy (WEP) : It is security protocol where authentication option is available, it encrypts the wireless frame with help of cipher algorithm. <br>
+Wifi-Protected Access (WPA/WPA-2) : is security protocol which is more secure for wireless network. WPA-2 is more secure than WPA as it supports Advance Encryption System (AES).<br>
