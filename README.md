@@ -1,5 +1,7 @@
 # cybersecurity_bootcamp
 
+Reading this will cover all the theory aspects required for cyber security. <br>
+
 NETWORKING FUNDAMENTALS FOR CYBERSECURITY : <br>
 Network : is a connection of multiple network devices via any medium.<br>
 Networking : is communication or transmisson of data between devices.<br>
