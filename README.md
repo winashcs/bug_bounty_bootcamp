@@ -115,3 +115,15 @@ Enumeration : phase after footprinting to know more deeper about the target. <br
 
 KALI LINUX FOR CYBERSECURITY : <br>
 An operating system is a software that manages computer hardware and provides common services for computer programs to function effectively. Kali Linux is the operating system designed for Cyber Security tasks as it comes with pre equipped frameworks and inbuilt tools already installed in it. <br>
+Five stages of Penetration Testing : <br>
+Stage 1 : Reconnaissance - gaining information about the target. <br>
+Stage 2 : Scanning - scanning for vulnerabilities of target using the scanning tools. <br>
+Stage 3 : Gain Access - trying to establish the connection with the target and exploit the vulnerabilities. <br>
+Stage 4 : Maintain Access - create a backdoor on the target's system so that you can later retrieve into the system. <br>
+Stage 5 : Clearing Tracks - clearing the footprints. <br>
+NMAP Project : free and open source network scanner used during reconnaissance stage which can find vulnerable services. <br>
+Metasploit : it helps to find the weak spots can run in remote access and it can run full - fledged security vulnerability scans by providing techniques for bypassing antivirus and firewalls. <br>
+Wireshark : used for analyzing packets, captures data on public-wifi and local network adapter. <br>
+Airgeddon : it can hack wireless networks and can launch DOS attacks . <br>
+John the Ripper : brute force tool that can crack hashed passwords. <br>
+
