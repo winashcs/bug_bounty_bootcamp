@@ -110,3 +110,7 @@ Firewall : is a network security device used to monitor the incoming and outgoin
 Proxy : is an intermediary device between user and internet which sends request to internet on the user's behalf. <br>
 ACL : Access Control List is a list which tells who has permission to access a resource. <br>
 Enumeration : phase after footprinting to know more deeper about the target. <br>
+
+KALI LINUX FOR CYBERSECURITY : <br>
+An operting system is a software that manages computer hardware and provides common services for computer programs to function effectively. Kali Linux is the operating system designed for Cyber Security tasks. <br>
+
