@@ -113,4 +113,3 @@ Enumeration : phase after footprinting to know more deeper about the target. <br
 
 KALI LINUX FOR CYBERSECURITY : <br>
 An operting system is a software that manages computer hardware and provides common services for computer programs to function effectively. Kali Linux is the operating system designed for Cyber Security tasks. <br>
-
