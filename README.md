@@ -145,3 +145,9 @@ sudo apt update : is used to update the Kali Linux os. We should use it with sud
 ping (name) : can be used to check the reachability. To exit press ctrl+c. <br>
 history : gives list of all commands used. <br>
 
+Proxy chains : using multiple proxies to hide your true identity. <br>
+proxychains -h : is help file of the proxy chain where it can contain the path of the proxychain file. <br>
+sudo nano (proxychainpath) : nano is a text editor for Kali Linux, this command opens the proxychain config file in texteditor where we can edit the type of chain we want by removing the hash symbol. <br>
+Tor : we can use proxy ip addresses from internet but they are not safe, so we dont provide any proxychains as we will not use that, so as we did not provide anything it will use tor network. But, we need to start tor. sudo systemctl status tor will check whether active/inactive , we need to give the command sudo systemctl start tor to make Tor active. It will now hide the ip. Then we give the command proxychains (browser name) (website name) it will now open in the hidden ip address. Do this entire process in root by using sudo su if the ip address does not change. If the ip address still does not change try reinstalling Tor by sudo apt-get remove Tor, install by sudo apt-get install Tor.  <br>
+
+Running N-Map Scans : <br>
