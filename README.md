@@ -157,3 +157,12 @@ nmap -h : to know more about nmap. <br>
 Basic NMAP commands : to implement NMAP use sudo su. nmap -o (ip address of the host system) detects the operating system of the host. nmap -A -T(0-5) (ip address of the host system), here (0-5) if you use lower number it scans slowly and it can prevent firewall/intrustion detection system from noticing it but scanning it in higher number can give faster results but it can go noticed. <br>
 
 Wireshark Sniffing : <br>
+Wireshark : is used to analyze traffic in a network,i.e,to analyze data packets that is being transmitted between network devices. <br>
+How attacks on non https happen ? : enter any login page on non https website on browser. Open the wireshark go for eth() type tcp contains "(loginusername)". Press the first request and open html form url encoded. You will find the password. <br>
+
+Kali NetHunter : framework to exploit Android devices. <br>
+
+Metasploit : gives information about security vulnerabilities on a network device. <br>
+msfconsole : is the command which should be typed after entering in root access to open Metasploit. To open root access type sudo su. <br>
+
+
