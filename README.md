@@ -153,3 +153,7 @@ Tor : we can use proxy ip addresses from internet but they are not safe, so we d
 
 Running N-Map Scans : <br>
 N-Map : scans to check all the devices/ports connected to network. <br>
+nmap -h : to know more about nmap. <br>
+Basic NMAP commands : to implement NMAP use sudo su. nmap -o (ip address of the host system) detects the operating system of the host. nmap -A -T(0-5) (ip address of the host system), here (0-5) if you use lower number it scans slowly and it can prevent firewall/intrustion detection system from noticing it but scanning it in higher number can give faster results but it can go noticed. <br>
+
+Wireshark Sniffing : <br>
