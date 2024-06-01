@@ -126,4 +126,22 @@ Metasploit : it helps to find the weak spots can run in remote access and it can
 Wireshark : used for analyzing packets, captures data on public-wifi and local network adapter. <br>
 Airgeddon : it can hack wireless networks and can launch DOS attacks . <br>
 John the Ripper : brute force tool that can crack hashed passwords. <br>
+Terminal commands : <br>
+pwd : present working directory, tracks the current location. (here in Kali Linux directory is same as folder in Windows) <br>
+mkdir (name) : is used to create a new folder. <br>
+cd (name) : it is used to change directory. <br>
+cd .. : it will comeback one folder. <br>
+ls : it shows the content of the current working directory. <br>
+etc : contains all important files that run the operating system like local disk c in windows operating system. <br>
+ls -a : to see the hidden files. <br>
+ls -al : will show the hidden files along with the access permissions. <br>
+cat (name) : used to list the contents of the file. <br>
+cat > (name) : used to create a file and write into it, when finished writing into it press ctrl+D to exit from the command. <br>
+cp (name) (directorypathname) : to copy file from one folder to another folder. <br>
+mv (name) (directorypathname) : to completely move the file from one folder to another folder. <br>
+sudo : superuserdo does the commands which required administrative permissions. <br>
+sudo su : is used to switch user/give root permission (root permission means superuser to do anything in the system without restrictions like opening restricted files). Type exit to exit from the root. <br>
+sudo apt update : is used to update the Kali Linux os. We should use it with sudo as it needs administrative permission to update. <br>
+ping (name) : can be used to check the reachability. To exit press ctrl+c. <br>
+history : gives list of all commands used. <br>
 
