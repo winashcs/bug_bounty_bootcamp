@@ -76,7 +76,8 @@ Wireless Lan Controller (WLC) : it helps in smooth performance of wireless netwo
 Virutalization : it is the act of creating a virtual version of something like running Kali linux operating system on a predefine Windows operating system. <br>
 Cloud Computing : helps for secure storage services online like google drive where you can access your file from any device as long as you have the account. <br>
 IPsec : Internet Protocol Security which helps for secure data transfer in public networks due to encryption. This is used to set up VPN. <br>
-Socket : helps in communication for different applications in computer network, just like phone helps in communication between two people, socket helps in communication for computer networks through IP addresses. <br>
+Port : A port is a communication end point just like door numbers in real life. Example : HTTP port number is 80, to connect to HTTP we need to connect to port number 80. Port helps to ensure that data sent over a network reaches the exact location. <br>
+Socket : helps in communication for different applications in computer network, just like phone helps in communication between two people, socket helps in communication for computer networks through IP addresses and port numbers. <br>
 SSL : Secure Socket Layer helps in securing connections between clients and servers by encrypting TCP/IP. <br>
 TLS : Transport Layer Security is the advance version of SSL. <br>
 VPN : Virtual Private Network creates a private connection between source and destination over less secure areas like internet which helps to bypass restricted websites and also hides the IP addresses. It acts like a secure tunnel. <br>
@@ -151,3 +152,4 @@ sudo nano (proxychainpath) : nano is a text editor for Kali Linux, this command 
 Tor : we can use proxy ip addresses from internet but they are not safe, so we dont provide any proxychains as we will not use that, so as we did not provide anything it will use tor network. But, we need to start tor. sudo systemctl status tor will check whether active/inactive , we need to give the command sudo systemctl start tor to make Tor active. It will now hide the ip. Then we give the command proxychains (browser name) (website name) it will now open in the hidden ip address. Do this entire process in root by using sudo su if the ip address does not change. If the ip address still does not change try reinstalling Tor by sudo apt-get remove Tor, install by sudo apt-get install Tor.  <br>
 
 Running N-Map Scans : <br>
+N-Map : scans to check all the devices/ports connected to network. <br>
